@@ -1,0 +1,4 @@
+jim, salesmen
+pam, receptionistjimi, banker
+pamur, catererjimi, banker
+pamur, caterer
